@@ -1,0 +1,12 @@
+{
+  "name": "express-welcome-middleware",
+  "version": "1.0.0",
+  "description": "Express custom middleware assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
